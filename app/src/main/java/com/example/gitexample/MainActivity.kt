@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
 
         print("aaa")
 
+        print("hajj")
+
 
     }
 }
